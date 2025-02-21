@@ -1,0 +1,8 @@
+ccxt
+yfinance
+pandas
+numpy
+matplotlib
+talib
+backtrader
+flask
